@@ -1,0 +1,8 @@
+tableau_extractor/
+│
+├── app.py                 # The main Flask application logic
+├── requirements.txt         # Python dependencies
+├── templates/               # Folder for HTML templates
+│   └── index.html           # The front-end user interface
+└── uploads/               # Temporary folder for uploaded files (create this folder)
+└── outputs/               # Temporary folder for generated excel files (create this folder)
